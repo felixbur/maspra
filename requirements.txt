@@ -1,8 +1,6 @@
-audplot
 ipywebrtc
 ipywidgets
 jupyter_contrib_nbextensions
 notebook<7.0.0
 RISE
 widgetsnbextension
-nkululeko
