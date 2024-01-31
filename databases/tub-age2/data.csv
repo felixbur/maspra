@@ -1,13 +1,3 @@
-file,speaker,sex,age,language
-Sebastian/seb01_f_29.wav,seb01_f_29,female,29,de-de
-Sebastian/seb02_f_52.wav,seb02_f_52,female,52,de-de
-Sebastian/seb03_f_56.wav,seb03_f_56,female,56,de-de
-Sebastian/seb04_f_36.wav,seb04_f_36,female,36,de-de
-Sebastian/seb05_f_60.wav,seb05_f_60,female,60,de-de
-Sebastian/seb06_f_02.wav,seb06_f_02,female,2,de-de
-Sebastian/seb07_m_24.wav,seb07_m_24,male,24,de-de
-Sebastian/seb08_f_28.wav,seb08_f_28,female,28,de-de
-Sebastian/seb09_f_20.wav,seb09_f_20,female,20,de-de
 Sebastian/seb10_m_28.wav,seb10_m_28,male,28,de-de
 Sebastian/seb11_m_27.wav,seb11_m_27,male,27,de-de
 Sebastian/seb12_m_30.wav,seb12_m_30,male,30,de-de
@@ -56,6 +46,7 @@ laura/lau05_m_55.wav,lau05_m_55,male,55,de-de
 laura/lau06_m_26.wav,lau06_m_26,male,26,de-de
 laura/lau07_m_27.wav,lau07_m_27,male,27,de-de
 laura/lau08_m_30.wav,lau08_m_30,male,30,de-de
+laura/lau09_f_25.wav,lau09_f_25,female,25,de-de
 laura/lau10_f_65.wav,lau10_f_65,female,65,de-de
 aya/aya01_f_30.wav,aya01_f_30,female,30,ar-jo/en
 aya/aya02_f_35.wav,aya02_f_35,female,35,bs-ba
@@ -70,3 +61,12 @@ aya/aya10_m_16.wav,aya10_m_16,male,16,pt-pt
 aya/aya11_f_78.wav,aya11_f_78,female,78,pt-pt
 aya/aya12_m_18.wav,aya12_m_18,male,18,pt-pt
 aya/aya13_m_34.wav,aya13_m_34,male,34,ar/ar-jo
+salwa/sal_01_f_43.wav,sal01_f_43,female,43,it
+salwa/sal_02_m_22.wav,sal02_m_22,male,22,de-de
+salwa/sal_03_f_30.wav,sal03_f_30,female,30,de-de
+salwa/sal_04_m_28.wav,sal04_m_28,male,28,de-de
+salwa/sal_05_f_25.wav,sal05_f_25,female,25,eng 
+salwa/sal_06_m_32.wav,sal06_m_32,male,32,it
+salwa/sal_07_m_5.wav,sal07_m_5,male,5,de-de
+salwa/sal_08_f_50.wav,sal08_f_50,female,50,de-de
+salwa/sal_09_m_14.wav,sal09_m_14,male,14,de-de
