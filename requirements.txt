@@ -1,5 +1,6 @@
 ipywebrtc
 ipywidgets
+jupyter_server<2
 jupyter_contrib_nbextensions
 notebook<7.0.0
 RISE
